@@ -1,0 +1,128 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "4f351c3e6f1322accc2d6c3178c02757d589cbad3a9b608415f6644f7334d626"
+
+[[files]]
+file = "config/iris.properties"
+hash = "59bb796d58a4345145337d369c1cd9804dc0f34728f8e92eea7cb606fcd42e27"
+
+[[files]]
+file = "config/minihud.json"
+hash = "5301e58b2e197b5a2c907bf832eb7ab95d1c3ce7f375c6b3fb60fccb4a3749d1"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "1a249012c4371ea18605087edaf1d72eee3d60674d62376232e7b271b98c699b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "de8978857fa72b8367e2b3c91a4ed0066e98cfb3d14a7dd95016e91b17e3d99b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+metafile = true
+
+[[files]]
+file = "mods/fabrizoom.pw.toml"
+hash = "53cd557bb9c2c540d06647fd96ba74e450e14b71eb45f82007a6de773e7c1f5a"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "8de7f74e3a6d02adb946023afc2810c74dbcb14c4c1fda96671f2726cf492bf8"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "fc829d9bfa6e9c399324e64cc5feb01f01630fc0971c7286ac08b5575dcf89b2"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "379fc2a0bb704376335fa0ab301c3ed606d6bbdd520fa2bca1aeb86763d42b76"
+metafile = true

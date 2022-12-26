@@ -1,0 +1,16 @@
+name = "Petrichor"
+author = "nelind"
+version = "0.1.0+1.19.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dba865341f28193df192aefb23aa3614bc0ed15feafc932c31b73965efb67dad"
+
+[versions]
+fabric = "0.14.12"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]
