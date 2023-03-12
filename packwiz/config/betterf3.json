@@ -10,7 +10,7 @@
 		"space_modules": false,
 		"always_show_profiler": false,
 		"animations": false,
-		"fontScale": 0.4,
+		"fontScale": 0.5,
 		"hide_sidebar": true,
 		"always_show_tps": false
 	},
