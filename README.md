@@ -27,21 +27,21 @@ NOTE! If you want the basic connected textures (glass, sandstone etc) be sure to
     <summary>Cosmetics and Optifine Parity</summary>
 
 - [Animatica](https://modrinth.com/mod/animatica)
-- [FabriZoom](https://modrinth.com/mod/fabrizoom)
 - [Continuity](https://modrinth.com/mod/continuity)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 - [CEM](https://modrinth.com/mod/cem)
   - [ETF](https://modrinth.com/mod/entitytexturefeatures)
 - [Iris](https://modrinth.com/mod/iris)
 - [OptiGUI](https://modrinth.com/mod/optigui)
+- [Zoomify](https://modrinth.com/mod/zoomify)
 </details>
 
 <details>
     <summary>Other Utility</summary>
 
+- [Adaptive Tooltips](https://modrinth.com/mod/adaptive-tooltips)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Inventory Essentials](https://modrinth.com/mod/inventory-essentials)
-- [ToolTipFix](https://modrinth.com/mod/tooltipfix)
 - [BetterF3](https://modrinth.com/mod/betterf3)
 - [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
 - [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica)
