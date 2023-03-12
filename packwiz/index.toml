@@ -13,6 +13,11 @@ file = "config/minihud.json"
 hash = "5301e58b2e197b5a2c907bf832eb7ab95d1c3ce7f375c6b3fb60fccb4a3749d1"
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "6e631bb9b83136c92f57d67ea681afadd6a2ccbbd12d39adb735dc01f1c50811"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
